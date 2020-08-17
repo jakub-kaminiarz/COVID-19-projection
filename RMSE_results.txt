@@ -1,0 +1,289 @@
+Average RMSE of model for positive_total: 743.6156892001752, epochs: 10, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_total: 804.0132757420494, epochs: 10, batch_size: 1, all data\
+Average RMSE of model for positive_total: 1034.8840109320147, epochs: 10, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_total: 713.7475356390376, epochs: 10, batch_size: 5, all data\
+Average RMSE of model for positive_total: 1633.2671049295816, epochs: 10, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_total: 2430.6859740779305, epochs: 10, batch_size: 10, all data\
+Average RMSE of model for positive_total: 349.02742757351973, epochs: 10, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_total: 5143.792202212678, epochs: 10, batch_size: 15, all data\
+Average RMSE of model for positive_total: 1559.311551151756, epochs: 10, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_total: 33441.78023858759, epochs: 10, batch_size: 30, all data\
+Average RMSE of model for positive_total: 1259.125072884929, epochs: 10, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_total: 5299.680378655373, epochs: 10, batch_size: 50, all data\
+Average RMSE of model for positive_total: 537.8565062268525, epochs: 50, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_total: 353.1568310710883, epochs: 50, batch_size: 1, all data\
+Average RMSE of model for positive_total: 353.5332772041706, epochs: 50, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_total: 325.00149892793144, epochs: 50, batch_size: 5, all data\
+Average RMSE of model for positive_total: 459.3094906028732, epochs: 50, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_total: 969.1402299463094, epochs: 50, batch_size: 10, all data\
+Average RMSE of model for positive_total: 950.0238789774352, epochs: 50, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_total: 758.1764114797603, epochs: 50, batch_size: 15, all data\
+Average RMSE of model for positive_total: 624.5675446741898, epochs: 50, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_total: 3018.3383110567647, epochs: 50, batch_size: 30, all data\
+Average RMSE of model for positive_total: 452.53800081373555, epochs: 50, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_total: 2284.26859688118, epochs: 50, batch_size: 50, all data\
+Average RMSE of model for positive_total: 608.5877915155141, epochs: 100, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_total: 371.9651286331806, epochs: 100, batch_size: 1, all data\
+Average RMSE of model for positive_total: 781.7142793323517, epochs: 100, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_total: 33232.35683466611, epochs: 100, batch_size: 5, all data\
+Average RMSE of model for positive_total: 520.7613457872063, epochs: 100, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_total: 205.23481887605007, epochs: 100, batch_size: 10, all data\
+Average RMSE of model for positive_total: 452.53885015380513, epochs: 100, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_total: 343.13200512794845, epochs: 100, batch_size: 15, all data\
+Average RMSE of model for positive_total: 598.3514626331757, epochs: 100, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_total: 556.755515363639, epochs: 100, batch_size: 30, all data\
+Average RMSE of model for positive_total: 806.0214819782185, epochs: 100, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_total: 739.2065201464098, epochs: 100, batch_size: 50, all data\
+Average RMSE of model for positive_total: 385.85582016624375, epochs: 200, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_total: 193.03552788198323, epochs: 200, batch_size: 1, all data\
+Average RMSE of model for positive_total: 309.961880165909, epochs: 200, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_total: 203.54737701575615, epochs: 200, batch_size: 5, all data\
+Average RMSE of model for positive_total: 516.1584760429715, epochs: 200, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_total: 340.0594165534943, epochs: 200, batch_size: 10, all data\
+Average RMSE of model for positive_total: 337.37397055522075, epochs: 200, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_total: 362.8885633682926, epochs: 200, batch_size: 15, all data\
+Average RMSE of model for positive_total: 659.7929158237938, epochs: 200, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_total: 492.61863344524926, epochs: 200, batch_size: 30, all data\
+Average RMSE of model for positive_total: 471.7915486521915, epochs: 200, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_total: 350.0912048306359, epochs: 200, batch_size: 50, all data\
+Average RMSE of model for positive_total: 28391.16767798651, epochs: 500, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_total: 217.67648322909088, epochs: 500, batch_size: 1, all data\
+Average RMSE of model for positive_total: 491.8493629221757, epochs: 500, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_total: 210.34916366577602, epochs: 500, batch_size: 5, all data\
+Average RMSE of model for positive_total: 320.06344041921045, epochs: 500, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_total: 435.54338607288565, epochs: 500, batch_size: 10, all data\
+Average RMSE of model for positive_total: 491.1235314551498, epochs: 500, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_total: 382.6000996358947, epochs: 500, batch_size: 15, all data\
+Average RMSE of model for positive_total: 653.7651906661852, epochs: 500, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_total: 471.7585257984019, epochs: 500, batch_size: 30, all data\
+Average RMSE of model for positive_total: 613.1696440338391, epochs: 500, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_total: 192.72921306805887, epochs: 500, batch_size: 50, all data\
+Average RMSE of model for positive_total: 227.24653751565248, epochs: 1000, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_total: 198.33237764383696, epochs: 1000, batch_size: 1, all data\
+Average RMSE of model for positive_total: 589.1557621787227, epochs: 1000, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_total: 266.0204870678517, epochs: 1000, batch_size: 5, all data\
+Average RMSE of model for positive_total: 576.1553004208148, epochs: 1000, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_total: 230.7538254803836, epochs: 1000, batch_size: 10, all data\
+Average RMSE of model for positive_total: 758.7037713237718, epochs: 1000, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_total: 162.0031456165261, epochs: 1000, batch_size: 15, all data\
+Average RMSE of model for positive_total: 367.90845792437744, epochs: 1000, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_total: 154.16291840282858, epochs: 1000, batch_size: 30, all data\
+Average RMSE of model for positive_total: 671.0372247401925, epochs: 1000, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_total: 242.2766551460419, epochs: 1000, batch_size: 50, all data\
+Average RMSE of model for positive_per_day: 145.13776114310494, epochs: 10, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 91.09724806998597, epochs: 10, batch_size: 1, all data\
+Average RMSE of model for positive_per_day: 132.47177447346664, epochs: 10, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 80.68852706211374, epochs: 10, batch_size: 5, all data\
+Average RMSE of model for positive_per_day: 139.5477156652231, epochs: 10, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 76.84004154989903, epochs: 10, batch_size: 10, all data\
+Average RMSE of model for positive_per_day: 153.45587433847572, epochs: 10, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 68.05650220985913, epochs: 10, batch_size: 15, all data\
+Average RMSE of model for positive_per_day: 132.15807155482486, epochs: 10, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 63.91633315551524, epochs: 10, batch_size: 30, all data\
+Average RMSE of model for positive_per_day: 121.59285675350543, epochs: 10, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 94.84956998907407, epochs: 10, batch_size: 50, all data\
+Average RMSE of model for positive_per_day: 137.3903323212851, epochs: 50, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 103.30301602929198, epochs: 50, batch_size: 1, all data\
+Average RMSE of model for positive_per_day: 156.466096986577, epochs: 50, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 97.81537757531632, epochs: 50, batch_size: 5, all data\
+Average RMSE of model for positive_per_day: 165.4979521132963, epochs: 50, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 90.94568513456754, epochs: 50, batch_size: 10, all data\
+Average RMSE of model for positive_per_day: 174.18514225566, epochs: 50, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 83.6509618576121, epochs: 50, batch_size: 15, all data\
+Average RMSE of model for positive_per_day: 146.39237352517983, epochs: 50, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 72.37551291649935, epochs: 50, batch_size: 30, all data\
+Average RMSE of model for positive_per_day: 142.94763248922098, epochs: 50, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 85.31874712391965, epochs: 50, batch_size: 50, all data\
+Average RMSE of model for positive_per_day: 181.4176691386702, epochs: 100, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 80.82080811047558, epochs: 100, batch_size: 1, all data\
+Average RMSE of model for positive_per_day: 170.80530805427685, epochs: 100, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 91.24430926626916, epochs: 100, batch_size: 5, all data\
+Average RMSE of model for positive_per_day: 153.14050944571193, epochs: 100, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 100.04183390957711, epochs: 100, batch_size: 10, all data\
+Average RMSE of model for positive_per_day: 173.90291601052465, epochs: 100, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 93.25141733664229, epochs: 100, batch_size: 15, all data\
+Average RMSE of model for positive_per_day: 133.95833132010048, epochs: 100, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 105.05366766919573, epochs: 100, batch_size: 30, all data\
+Average RMSE of model for positive_per_day: 147.99478719300726, epochs: 100, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 90.23445021536101, epochs: 100, batch_size: 50, all data\
+Average RMSE of model for positive_per_day: 154.8075935378803, epochs: 200, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 94.00199058720536, epochs: 200, batch_size: 1, all data\
+Average RMSE of model for positive_per_day: 188.21135800493553, epochs: 200, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 98.29799479695673, epochs: 200, batch_size: 5, all data\
+Average RMSE of model for positive_per_day: 143.4002051896063, epochs: 200, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 116.31386669416375, epochs: 200, batch_size: 10, all data\
+Average RMSE of model for positive_per_day: 162.88216778469337, epochs: 200, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 113.51309780793059, epochs: 200, batch_size: 15, all data\
+Average RMSE of model for positive_per_day: 191.4592281951471, epochs: 200, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 92.21522147608695, epochs: 200, batch_size: 30, all data\
+Average RMSE of model for positive_per_day: 194.68756384522604, epochs: 200, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 110.71350872750689, epochs: 200, batch_size: 50, all data\
+Average RMSE of model for positive_per_day: 144.93211899540606, epochs: 500, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 83.65286787588548, epochs: 500, batch_size: 1, all data\
+Average RMSE of model for positive_per_day: 154.60464416061615, epochs: 500, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 96.80523526334402, epochs: 500, batch_size: 5, all data\
+Average RMSE of model for positive_per_day: 177.74549720808008, epochs: 500, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 102.3740187629095, epochs: 500, batch_size: 10, all data\
+Average RMSE of model for positive_per_day: 184.3405183547788, epochs: 500, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 119.28048073397116, epochs: 500, batch_size: 15, all data\
+Average RMSE of model for positive_per_day: 181.70093089610415, epochs: 500, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 156.98819993075207, epochs: 500, batch_size: 30, all data\
+Average RMSE of model for positive_per_day: 208.87643971876813, epochs: 500, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 133.06709075040646, epochs: 500, batch_size: 50, all data\
+Average RMSE of model for positive_per_day: 163.56971706636628, epochs: 1000, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 92.59925232087093, epochs: 1000, batch_size: 1, all data\
+Average RMSE of model for positive_per_day: 122.39156423084805, epochs: 1000, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 105.84697356393323, epochs: 1000, batch_size: 5, all data\
+Average RMSE of model for positive_per_day: 149.99058763288855, epochs: 1000, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 113.00618035251352, epochs: 1000, batch_size: 10, all data\
+Average RMSE of model for positive_per_day: 177.1016148282006, epochs: 1000, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 102.25608654159825, epochs: 1000, batch_size: 15, all data\
+Average RMSE of model for positive_per_day: 156.4931561006635, epochs: 1000, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 94.6024062122714, epochs: 1000, batch_size: 30, all data\
+Average RMSE of model for positive_per_day: 346.2634185035164, epochs: 1000, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for positive_per_day: 115.2753836114663, epochs: 1000, batch_size: 50, all data\
+Average RMSE of model for death_total: 26.610019487025223, epochs: 10, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_total: 20.18603104992328, epochs: 10, batch_size: 1, all data\
+Average RMSE of model for death_total: 28.8213060031456, epochs: 10, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_total: 17.038110621158214, epochs: 10, batch_size: 5, all data\
+Average RMSE of model for death_total: 39.637530966504976, epochs: 10, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_total: 31.55816178752749, epochs: 10, batch_size: 10, all data\
+Average RMSE of model for death_total: 131.90840229752348, epochs: 10, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_total: 80.85034624631028, epochs: 10, batch_size: 15, all data\
+Average RMSE of model for death_total: 138.06149673703615, epochs: 10, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_total: 296.5573028061011, epochs: 10, batch_size: 30, all data\
+Average RMSE of model for death_total: 138.48102257109954, epochs: 10, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_total: 94.44470017729364, epochs: 10, batch_size: 50, all data\
+Average RMSE of model for death_total: 27.438935364871632, epochs: 50, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_total: 14.537471012434112, epochs: 50, batch_size: 1, all data\
+Average RMSE of model for death_total: 43.455915616441025, epochs: 50, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_total: 14.080930769561752, epochs: 50, batch_size: 5, all data\
+Average RMSE of model for death_total: 21.71011317005493, epochs: 50, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_total: 16.622657080296257, epochs: 50, batch_size: 10, all data\
+Average RMSE of model for death_total: 67.42313529043732, epochs: 50, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_total: 14.955651384675017, epochs: 50, batch_size: 15, all data\
+Average RMSE of model for death_total: 47.95334813187274, epochs: 50, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_total: 37.797365665850165, epochs: 50, batch_size: 30, all data\
+Average RMSE of model for death_total: 29.292469685810314, epochs: 50, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_total: 18.70676471260192, epochs: 50, batch_size: 50, all data\
+Average RMSE of model for death_total: 19.208709856860615, epochs: 100, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_total: 17.058918038796627, epochs: 100, batch_size: 1, all data\
+Average RMSE of model for death_total: 41.93755387220417, epochs: 100, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_total: 11.54735040106922, epochs: 100, batch_size: 5, all data\
+Average RMSE of model for death_total: 46.19653059177811, epochs: 100, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_total: 13.503800252401186, epochs: 100, batch_size: 10, all data\
+Average RMSE of model for death_total: 45.983012444197065, epochs: 100, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_total: 12.292276044841831, epochs: 100, batch_size: 15, all data\
+Average RMSE of model for death_total: 22.462962796664748, epochs: 100, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_total: 18.202663499644355, epochs: 100, batch_size: 30, all data\
+Average RMSE of model for death_total: 74.16182521201549, epochs: 100, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_total: 10.471875240449208, epochs: 100, batch_size: 50, all data\
+Average RMSE of model for death_total: 21.74415556837605, epochs: 200, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_total: 13.709068085681578, epochs: 200, batch_size: 1, all data\
+Average RMSE of model for death_total: 26.635772446487923, epochs: 200, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_total: 11.878217564979606, epochs: 200, batch_size: 5, all data\
+Average RMSE of model for death_total: 17.99884199339842, epochs: 200, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_total: 12.549487375666045, epochs: 200, batch_size: 10, all data\
+Average RMSE of model for death_total: 70.41739889262003, epochs: 200, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_total: 11.193087452228875, epochs: 200, batch_size: 15, all data\
+Average RMSE of model for death_total: 22.968753046372385, epochs: 200, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_total: 12.243019282294831, epochs: 200, batch_size: 30, all data\
+Average RMSE of model for death_total: 63.714765232718975, epochs: 200, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_total: 13.140353849732167, epochs: 200, batch_size: 50, all data\
+Average RMSE of model for death_total: 16.90625121065515, epochs: 500, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_total: 14.350046975661284, epochs: 500, batch_size: 1, all data\
+Average RMSE of model for death_total: 28.04448250876526, epochs: 500, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_total: 10.017199409727557, epochs: 500, batch_size: 5, all data\
+Average RMSE of model for death_total: 20.730168130369204, epochs: 500, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_total: 9.849109518551787, epochs: 500, batch_size: 10, all data\
+Average RMSE of model for death_total: 45.32683941057059, epochs: 500, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_total: 9.825420328784856, epochs: 500, batch_size: 15, all data\
+Average RMSE of model for death_total: 26.82141948504024, epochs: 500, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_total: 12.748123501089232, epochs: 500, batch_size: 30, all data\
+Average RMSE of model for death_total: 84.59678193037682, epochs: 500, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_total: 12.287115349790781, epochs: 500, batch_size: 50, all data\
+Average RMSE of model for death_total: 19.586731109457833, epochs: 1000, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_total: 15.321846257248351, epochs: 1000, batch_size: 1, all data\
+Average RMSE of model for death_total: 18.259103033834467, epochs: 1000, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_total: 11.195966257774455, epochs: 1000, batch_size: 5, all data\
+Average RMSE of model for death_total: 21.563956735126265, epochs: 1000, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_total: 9.894464704768483, epochs: 1000, batch_size: 10, all data\
+Average RMSE of model for death_total: 44.54821890920868, epochs: 1000, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_total: 10.05886861574202, epochs: 1000, batch_size: 15, all data\
+Average RMSE of model for death_total: 38.084695830618045, epochs: 1000, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_total: 11.10332225539937, epochs: 1000, batch_size: 30, all data\
+Average RMSE of model for death_total: 62.94951644207623, epochs: 1000, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_total: 11.959660769615397, epochs: 1000, batch_size: 50, all data\
+Average RMSE of model for death_per_day: 9.495593428017786, epochs: 10, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.717965680255295, epochs: 10, batch_size: 1, all data\
+Average RMSE of model for death_per_day: 9.86030657697027, epochs: 10, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_per_day: 6.781015921054272, epochs: 10, batch_size: 5, all data\
+Average RMSE of model for death_per_day: 8.937214052241732, epochs: 10, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.9192179400824205, epochs: 10, batch_size: 10, all data\
+Average RMSE of model for death_per_day: 8.022020264481917, epochs: 10, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.490370480520779, epochs: 10, batch_size: 15, all data\
+Average RMSE of model for death_per_day: 7.774309723498284, epochs: 10, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_per_day: 6.994179647140721, epochs: 10, batch_size: 30, all data\
+Average RMSE of model for death_per_day: 7.196828731423799, epochs: 10, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.766269563624918, epochs: 10, batch_size: 50, all data\
+Average RMSE of model for death_per_day: 9.172740883837148, epochs: 50, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_per_day: 8.255217335666275, epochs: 50, batch_size: 1, all data\
+Average RMSE of model for death_per_day: 10.560001705028329, epochs: 50, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.489145901014171, epochs: 50, batch_size: 5, all data\
+Average RMSE of model for death_per_day: 9.18466899600081, epochs: 50, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.408792325063555, epochs: 50, batch_size: 10, all data\
+Average RMSE of model for death_per_day: 9.614545508308364, epochs: 50, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.06033613436791, epochs: 50, batch_size: 15, all data\
+Average RMSE of model for death_per_day: 9.25905479825583, epochs: 50, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_per_day: 8.524281542156842, epochs: 50, batch_size: 30, all data\
+Average RMSE of model for death_per_day: 9.345142880517853, epochs: 50, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.084452030316561, epochs: 50, batch_size: 50, all data\
+Average RMSE of model for death_per_day: 10.212276435411143, epochs: 100, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.346815575638113, epochs: 100, batch_size: 1, all data\
+Average RMSE of model for death_per_day: 9.243067112498636, epochs: 100, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_per_day: 8.780629570865788, epochs: 100, batch_size: 5, all data\
+Average RMSE of model for death_per_day: 9.367492285846486, epochs: 100, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.989671916776642, epochs: 100, batch_size: 10, all data\
+Average RMSE of model for death_per_day: 9.162960340250738, epochs: 100, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.146631966078859, epochs: 100, batch_size: 15, all data\
+Average RMSE of model for death_per_day: 9.969463561753665, epochs: 100, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.254389490712638, epochs: 100, batch_size: 30, all data\
+Average RMSE of model for death_per_day: 11.063805384699094, epochs: 100, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_per_day: 8.996456813186864, epochs: 100, batch_size: 50, all data\
+Average RMSE of model for death_per_day: 9.335048846225211, epochs: 200, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_per_day: 8.126014997632241, epochs: 200, batch_size: 1, all data\
+Average RMSE of model for death_per_day: 9.268343123411105, epochs: 200, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.6936787400433495, epochs: 200, batch_size: 5, all data\
+Average RMSE of model for death_per_day: 9.507864809185172, epochs: 200, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_per_day: 8.100923330217285, epochs: 200, batch_size: 10, all data\
+Average RMSE of model for death_per_day: 10.260839816449643, epochs: 200, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_per_day: 12.141005550948734, epochs: 200, batch_size: 15, all data\
+Average RMSE of model for death_per_day: 11.941786933441275, epochs: 200, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.059807051665988, epochs: 200, batch_size: 30, all data\
+Average RMSE of model for death_per_day: 10.388827321743939, epochs: 200, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.584629149618271, epochs: 200, batch_size: 50, all data\
+Average RMSE of model for death_per_day: 8.773625478593566, epochs: 500, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.189697507108635, epochs: 500, batch_size: 1, all data\
+Average RMSE of model for death_per_day: 8.73118184568818, epochs: 500, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.182901139277899, epochs: 500, batch_size: 5, all data\
+Average RMSE of model for death_per_day: 8.715053361350558, epochs: 500, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.96220750541789, epochs: 500, batch_size: 10, all data\
+Average RMSE of model for death_per_day: 9.165836373328256, epochs: 500, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.149767515571078, epochs: 500, batch_size: 15, all data\
+Average RMSE of model for death_per_day: 10.734573531814632, epochs: 500, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_per_day: 11.76238169662978, epochs: 500, batch_size: 30, all data\
+Average RMSE of model for death_per_day: 9.454687290395606, epochs: 500, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.426240873218024, epochs: 500, batch_size: 50, all data\
+Average RMSE of model for death_per_day: 9.75068742015627, epochs: 1000, batch_size: 1, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.390243592782443, epochs: 1000, batch_size: 1, all data\
+Average RMSE of model for death_per_day: 8.320632674335517, epochs: 1000, batch_size: 5, data from 2020-04-01\
+Average RMSE of model for death_per_day: 7.343196268170859, epochs: 1000, batch_size: 5, all data\
+Average RMSE of model for death_per_day: 8.945260106269492, epochs: 1000, batch_size: 10, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.133821817018418, epochs: 1000, batch_size: 10, all data\
+Average RMSE of model for death_per_day: 9.028627321728864, epochs: 1000, batch_size: 15, data from 2020-04-01\
+Average RMSE of model for death_per_day: 9.089178752085171, epochs: 1000, batch_size: 15, all data\
+Average RMSE of model for death_per_day: 12.481827344793464, epochs: 1000, batch_size: 30, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.792507747337453, epochs: 1000, batch_size: 30, all data\
+Average RMSE of model for death_per_day: 12.06900146697866, epochs: 1000, batch_size: 50, data from 2020-04-01\
+Average RMSE of model for death_per_day: 10.52807483453639, epochs: 1000, batch_size: 50, all data\
+}
